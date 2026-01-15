@@ -1,0 +1,42 @@
+================================================================================
+해류 기반 쓰레기 수거 최적화 동선 결과
+================================================================================
+
+1. 최적 경로 정보
+--------------------------------------------------------------------------------
+방법: GREEDY
+총 비용: 45709.13
+
+경로 순서:
+1. 부산 일광 (Trash: 1166 items) -> Distance: 13.66 km
+2. 울주 나사리 (Trash: 124 items) -> Distance: 17.81 km
+3. 울산 대왕암 (Trash: 284 items) -> Distance: 8.76 km
+4. 울산 주전 (Trash: 108 items) -> Distance: 56.11 km
+5. 포항 구룡포 (Trash: 428 items) -> Distance: 17.66 km
+6. 포항 칠포 (Trash: 307 items) -> Distance: 50.79 km
+7. 영덕 고래불 (Trash: 203 items) -> Distance: 53.38 km
+8. 울진 후정 (Trash: 120 items) -> Distance: 64.02 km
+9. 동해 노봉 (Trash: 232 items) -> Distance: 25.64 km
+10. 강릉 송정 (Trash: 161 items) -> Distance: 55.31 km
+11. 속초 청초 (Trash: 179 items) -> Distance: 208.70 km
+12. 울릉 현포 (Trash: 407 items) -> Return to start: 288.65 km
+
+Total travel distance: 860.49 km
+
+2. All Methods Comparison
+--------------------------------------------------------------------------------
+GREEDY: Cost 45709.13
+NEAREST: Cost 45709.13
+PRIORITY: Cost 143817.43
+
+3. Algorithm Description
+--------------------------------------------------------------------------------
+- GREEDY: Greedy algorithm considering cost and trash quantity
+- NEAREST: Sequentially visit the nearest points
+- PRIORITY: Visit in order of trash quantity (highest first)
+
+Cost calculation factors:
+- Distance (30%%): Straight-line distance between points
+- Current assistance (40%%): Time savings when riding ocean currents
+- Trash quantity weight (20%%): Priority to areas with more trash
+- Vorticity weight (10%%): Priority to eddy regions

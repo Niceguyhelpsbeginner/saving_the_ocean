@@ -1,0 +1,25 @@
+================================================================================
+Advanced Trash-Current Data Analysis Summary
+================================================================================
+
+1. Trash Type Analysis
+--------------------------------------------------------------------------------
+플라스틱류: 3719 items, Avg Current Speed: 0.0460 m/s
+
+2. Trash Source Analysis
+--------------------------------------------------------------------------------
+국내기인: 3688 items
+외국기인: 31 items
+
+3. Hotspot Prediction
+--------------------------------------------------------------------------------
+Slow current threshold: 0.0533 m/s
+High vorticity threshold: 2.95e-06 s^-1
+Predicted hotspot areas: 681 pixels
+
+4. Key Findings
+--------------------------------------------------------------------------------
+- Trash accumulation is higher in areas with slower currents
+- Eddy regions (high vorticity) tend to accumulate more trash
+- Different trash types show different spatial distributions
+- Trajectory simulation helps predict trash movement patterns

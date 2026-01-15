@@ -1,0 +1,89 @@
+================================================================================
+북태평양 환류 중심 위치 정보
+================================================================================
+
+분석 날짜: 2025-11-27
+탐지 임계값: ±4.90e-06 s⁻¹
+위도 범위: 15.12°N ~ 51.88°N
+경도 범위: 115.12°E ~ 179.88°E
+
+시계방향 환류 (양수 vorticity) 중심:
+--------------------------------------------------------------------------------
+1. 위치: (30.8750°N, 146.8750°E), Vorticity: 1.57e-05 s⁻¹, SSH: 1.0051 m, Probability: 2.00
+2. 위치: (32.8750°N, 147.1250°E), Vorticity: 1.45e-05 s⁻¹, SSH: 1.2471 m, Probability: 2.00
+3. 위치: (30.1250°N, 153.6250°E), Vorticity: 1.35e-05 s⁻¹, SSH: 0.9043 m, Probability: 2.00
+4. 위치: (34.8750°N, 147.1250°E), Vorticity: 1.30e-05 s⁻¹, SSH: 1.4762 m, Probability: 2.00
+5. 위치: (30.3750°N, 149.8750°E), Vorticity: 9.77e-06 s⁻¹, SSH: 1.5382 m, Probability: 2.00
+6. 위치: (34.6250°N, 137.3750°E), Vorticity: 8.93e-06 s⁻¹, SSH: 1.8688 m, Probability: 2.00
+7. 위치: (30.1250°N, 142.3750°E), Vorticity: 8.59e-06 s⁻¹, SSH: 0.9281 m, Probability: 1.98
+8. 위치: (30.6250°N, 160.1250°E), Vorticity: 7.92e-06 s⁻¹, SSH: 0.7253 m, Probability: 1.82
+9. 위치: (30.1250°N, 158.3750°E), Vorticity: 7.24e-06 s⁻¹, SSH: 1.3303 m, Probability: 1.67
+10. 위치: (46.8750°N, 139.6250°E), Vorticity: 7.15e-06 s⁻¹, SSH: 1.4978 m, Probability: 1.65
+11. 위치: (37.8750°N, 130.8750°E), Vorticity: 7.10e-06 s⁻¹, SSH: 1.5575 m, Probability: 1.63
+12. 위치: (47.6250°N, 136.3750°E), Vorticity: 6.96e-06 s⁻¹, SSH: 1.6309 m, Probability: 1.60
+13. 위치: (25.8750°N, 146.1250°E), Vorticity: 6.91e-06 s⁻¹, SSH: 0.6508 m, Probability: 1.59
+14. 위치: (28.8750°N, 172.3750°E), Vorticity: 6.90e-06 s⁻¹, SSH: 0.9642 m, Probability: 1.59
+15. 위치: (34.1250°N, 161.8750°E), Vorticity: 6.61e-06 s⁻¹, SSH: 1.1073 m, Probability: 1.52
+16. 위치: (48.3750°N, 125.8750°E), Vorticity: 6.52e-06 s⁻¹, SSH: 1.4903 m, Probability: 1.50
+17. 위치: (34.1250°N, 151.1250°E), Vorticity: 6.13e-06 s⁻¹, SSH: 1.5681 m, Probability: 1.41
+18. 위치: (32.8750°N, 159.6250°E), Vorticity: 6.09e-06 s⁻¹, SSH: 1.3547 m, Probability: 1.40
+19. 위치: (31.8750°N, 166.1250°E), Vorticity: 6.08e-06 s⁻¹, SSH: 1.2978 m, Probability: 1.40
+20. 위치: (34.1250°N, 149.8750°E), Vorticity: 6.07e-06 s⁻¹, SSH: 1.5825 m, Probability: 1.40
+21. 위치: (32.3750°N, 141.3750°E), Vorticity: 6.02e-06 s⁻¹, SSH: 1.3987 m, Probability: 1.39
+22. 위치: (46.3750°N, 150.8750°E), Vorticity: 5.95e-06 s⁻¹, SSH: 1.4353 m, Probability: 1.37
+23. 위치: (45.1250°N, 140.1250°E), Vorticity: 5.89e-06 s⁻¹, SSH: 1.3882 m, Probability: 1.36
+24. 위치: (44.8750°N, 126.3750°E), Vorticity: 5.59e-06 s⁻¹, SSH: 1.4015 m, Probability: 1.29
+25. 위치: (40.1250°N, 131.8750°E), Vorticity: 5.54e-06 s⁻¹, SSH: 1.4404 m, Probability: 1.27
+26. 위치: (41.1250°N, 122.1250°E), Vorticity: 5.48e-06 s⁻¹, SSH: 0.9889 m, Probability: 1.26
+27. 위치: (31.3750°N, 164.1250°E), Vorticity: 5.36e-06 s⁻¹, SSH: 1.3721 m, Probability: 1.23
+28. 위치: (45.1250°N, 144.6250°E), Vorticity: 5.36e-06 s⁻¹, SSH: 1.4360 m, Probability: 1.23
+29. 위치: (28.1250°N, 161.1250°E), Vorticity: 5.29e-06 s⁻¹, SSH: 0.9116 m, Probability: 1.22
+30. 위치: (47.8750°N, 129.8750°E), Vorticity: 5.21e-06 s⁻¹, SSH: 1.4831 m, Probability: 1.20
+31. 위치: (39.6250°N, 136.3750°E), Vorticity: 5.21e-06 s⁻¹, SSH: 1.6531 m, Probability: 1.20
+32. 위치: (41.8750°N, 177.3750°E), Vorticity: 5.01e-06 s⁻¹, SSH: 1.2449 m, Probability: 1.15
+
+반시계방향 환류 (음수 vorticity) 중심:
+--------------------------------------------------------------------------------
+1. 위치: (29.1250°N, 151.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.7029 m, Probability: 2.00
+2. 위치: (33.6250°N, 148.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4282 m, Probability: 2.00
+3. 위치: (33.3750°N, 137.6250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.9567 m, Probability: 2.00
+4. 위치: (31.6250°N, 158.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.8107 m, Probability: 2.00
+5. 위치: (33.8750°N, 145.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5553 m, Probability: 2.00
+6. 위치: (29.1250°N, 143.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.5926 m, Probability: 2.00
+7. 위치: (29.6250°N, 161.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.8256 m, Probability: 1.80
+8. 위치: (31.1250°N, 143.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.3663 m, Probability: 1.78
+9. 위치: (45.1250°N, 148.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4942 m, Probability: 1.72
+10. 위치: (28.1250°N, 155.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.5874 m, Probability: 1.71
+11. 위치: (31.8750°N, 145.6250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4271 m, Probability: 1.60
+12. 위치: (32.6250°N, 151.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.9267 m, Probability: 1.60
+13. 위치: (46.8750°N, 128.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4825 m, Probability: 1.54
+14. 위치: (25.1250°N, 145.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.4310 m, Probability: 1.50
+15. 위치: (33.1250°N, 163.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.2556 m, Probability: 1.49
+16. 위치: (27.8750°N, 169.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.9291 m, Probability: 1.48
+17. 위치: (48.8750°N, 124.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5359 m, Probability: 1.42
+18. 위치: (37.6250°N, 138.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5301 m, Probability: 1.42
+19. 위치: (30.6250°N, 170.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.3256 m, Probability: 1.40
+20. 위치: (42.8750°N, 142.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5504 m, Probability: 1.40
+21. 위치: (15.1250°N, 159.6250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.5208 m, Probability: 1.37
+22. 위치: (38.3750°N, 134.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4988 m, Probability: 1.36
+23. 위치: (42.1250°N, 123.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.2659 m, Probability: 1.36
+24. 위치: (33.3750°N, 139.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.0845 m, Probability: 1.34
+25. 위치: (46.1250°N, 137.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5824 m, Probability: 1.34
+26. 위치: (45.6250°N, 133.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.6165 m, Probability: 1.33
+27. 위치: (51.6250°N, 117.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.1910 m, Probability: 1.33
+28. 위치: (36.6250°N, 128.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.2600 m, Probability: 1.32
+29. 위치: (29.1250°N, 148.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.4356 m, Probability: 1.32
+30. 위치: (47.1250°N, 124.6250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5298 m, Probability: 1.25
+31. 위치: (45.6250°N, 164.6250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.5095 m, Probability: 1.24
+32. 위치: (30.3750°N, 165.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 0.8409 m, Probability: 1.23
+33. 위치: (48.6250°N, 122.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.2815 m, Probability: 1.20
+34. 위치: (32.6250°N, 153.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.3381 m, Probability: 1.19
+35. 위치: (32.3750°N, 155.3750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.1563 m, Probability: 1.17
+36. 위치: (47.3750°N, 152.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4931 m, Probability: 1.14
+37. 위치: (44.1250°N, 153.1250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.4956 m, Probability: 1.14
+38. 위치: (39.6250°N, 178.8750°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.3675 m, Probability: 1.13
+39. 위치: (32.6250°N, 168.6250°E), Vorticity: -5.77e-06 s⁻¹, SSH: 1.2054 m, Probability: 1.13
+
+
+환류 발생 가능성이 높은 지역 (상위 10개):
+--------------------------------------------------------------------------------

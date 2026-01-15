@@ -1,39 +1,25 @@
-# Python
+# Dataset files
+dataset/
+
+# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
+*.pyo
+*.pyd
 .Python
-env/
+
+# Virtual environments
 venv/
+env/
 ENV/
-.venv
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
-
-# Data files (large)
-*.nc
-*.nc4
-*.h5
-*.hdf5
-
-# Output files (can be regenerated)
-analysis_output/**/*.png
-analysis_output/**/*.txt
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
-
-# Logs
-*.log
 
